@@ -1,6 +1,5 @@
 #include <SFML/Graphics.hpp>
 #include <ctime>
-#include <conio.h>
 
 void circles()
 {
