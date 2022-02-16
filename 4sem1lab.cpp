@@ -1,6 +1,7 @@
 ﻿#include "Header.h"
 int main()
 {
-    circles();
+    setlocale(0, "");
+    dots();
     return 0;
 }
